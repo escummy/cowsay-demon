@@ -1,0 +1,38 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# Pipenv
+/.venv
+/.venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.pydevproject
+*.pyc
+*.bak
+
+# Testing
+.pytest_cache/
+coverage/
+
+# Logs
+*.log
+
+# Package distribution / building
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Miscellaneous
+*.swp
+*~
+.DS_Store
