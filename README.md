@@ -12,14 +12,14 @@
 [travis-url]: https://travis-ci.org/escummy/node-datadog-metrics
 [wiki]: https://github.com/escummy/yourproject/wiki -->
 
-> Run the 'Cowsay Demon' by console typing the proper script to check the prompt result drawed with characters.
+> Run the script to check 'Cowsay Demon' prompt drawed with characters by console.
 
 <br>
 
 <!-- ## Snapshots -->
 
 <p align="center">
-  <img src="https://github.com/escummy/cowsay-demon/assets/90976678/912964ba-9ef7-4a48-bde5-db9d40524c75" width="95%" title="Python demon cowsay screenshot" alt="accessibility text">
+  <img src="https://github.com/escummy/cowsay-demon/assets/90976678/ebce7702-d83c-4e46-b461-036331379790" width="95%" title="Python demon cowsay screenshot" alt="accessibility text">
 </p>
 
 <br>
@@ -194,18 +194,6 @@ License used for this repository <a href="https://github.com/escummy/cowsay-demo
 <!-- #### Hashtags
 
 #webpack #starter #initialfiles #developmentmode #productionmode #packagejson #webpackconfig #babelconfig #dev #prod #npmstart #yarnstart #build #builddev #buildprod #github #badges -->
-
-<br>
- 
-## About Licenses
- 
-> Ask the person in charge or the team about proper LICENSE format.
-A licensor may grant a license under intellectual property laws to authorize a use (such as copying software or using a patented invention) to a licensee, sparing the licensee from a claim of infringement brought by the licensor.
-
-
-<!-- Change link path for each repository (automate actions CI/gist)-->
-
-License used for this repository to be defined, in the case of a practice simulation, non official repositories or Open source projects, is commonly used <a href="https://github.com/escummy/cowsay-demon/blob/main/LICENSE">`[`MIT License`]`</a>
 
 <br><br>
 
